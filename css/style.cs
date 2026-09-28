@@ -30,10 +30,6 @@ article {
     min-width: 0;
 }
 
-main > section:first-child > * {
-    min-width: 0;
-}
-
 main {
     width: 90%;
     max-width: 1200px;
@@ -61,16 +57,12 @@ nav a {
     font-weight: bold;
 }
 
-main > section:first-child {
+#hero {
     display: flex;
     align-items: center;
     justify-content: space-between;
     gap: 30px;
     padding: 30px 0;
-}
-
-main > section:first-child > * {
-    flex: 1;
 }
 
 figure {
@@ -122,7 +114,7 @@ figure {
 }
 
 @media (max-width: 800px) {
-    main > section:first-child {
+    #hero {
         flex-direction: column;
         align-items: stretch;
     }
@@ -193,6 +185,32 @@ footer {
 
 footer nav {
     margin-top: 15px;
+}
+
+/* FIX: featured event image size */
+#hero figure {
+    max-width: 500px;
+    width: 100%;
+}
+
+#hero figure img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+}
+
+#event-intro figure {
+    width: 100%;
+    max-width: 600px;
+    margin: 20px 0;
+}
+
+#event-intro img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    display: block;
 }
 
 
