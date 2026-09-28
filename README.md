@@ -23,7 +23,7 @@ I used semantic elements like `header`, `nav`, `main`, `section`, `article`, `as
 I used these so the page structure is easier to understand and the HTML matches the type of content inside each section.
 
 ## Sources
-Images used in this project came from free image websites such as Unsplash.
+Images used in this project came from Unsplash and other image sources listed below.
 
 - Campus events image: https://unsplash.com/photos/students-walk-and-bike-on-a-college-campus-path-sOENhFWZ-FU
 - Fall festival image: https://unsplash.com/photos/laughing-people-in-party-fIHozNWfcvs 
