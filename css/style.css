@@ -145,3 +145,40 @@ figure {
     }
 }
 
+section {
+    margin-bottom: 30px;
+}
+
+h1,
+h2,
+h3 {
+    margin-top: 0;
+}
+
+main a,
+aside a {
+    display: inline-block;
+    padding: 10px 16px;
+    border: 1px solid #333;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+#upcoming-events article,
+.related-event-card,
+#event-layout aside {
+    border-radius: 8px;
+}
+
+footer {
+    margin-top: 40px;
+    padding: 25px;
+    border-top: 2px solid #333;
+    text-align: center;
+}
+
+footer nav {
+    margin-top: 15px;
+}
+
+
