@@ -25,9 +25,9 @@ I used these so the page structure is easier to understand and the HTML matches 
 ## Sources
 Images used in this project came from free image websites such as Unsplash.
 
-- Campus events image:
-- Fall festival image:
-- Coding night image:
-- Movie night image:
-- Art showcase image:
-- Food festival image:
+- Campus events image: https://unsplash.com/photos/students-walk-and-bike-on-a-college-campus-path-sOENhFWZ-FU
+- Fall festival image: https://unsplash.com/photos/laughing-people-in-party-fIHozNWfcvs 
+- Coding night image: https://unsplash.com/photos/students-work-on-laptops-and-write-in-a-classroom-ZWoBkLsbUuc
+- Movie night image: https://sunsetcinemaclub.in/event-gallery/39
+- Art showcase image: 
+- Food festival image: https://unsplash.com/photos/a-food-stand-with-many-plates-of-food-on-it-S9mVdxWyp14
