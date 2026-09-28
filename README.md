@@ -29,5 +29,5 @@ Images used in this project came from free image websites such as Unsplash.
 - Fall festival image: https://unsplash.com/photos/laughing-people-in-party-fIHozNWfcvs 
 - Coding night image: https://unsplash.com/photos/students-work-on-laptops-and-write-in-a-classroom-ZWoBkLsbUuc
 - Movie night image: https://sunsetcinemaclub.in/event-gallery/39
-- Art showcase image: 
+- Art showcase image: https://unsplash.com/photos/a-couple-of-women-standing-next-to-each-other-G3TDH_4SVnc
 - Food festival image: https://unsplash.com/photos/a-food-stand-with-many-plates-of-food-on-it-S9mVdxWyp14
