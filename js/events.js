@@ -10,13 +10,13 @@
  * Adds a Save Event button to each upcoming event card.
  */
 function addSaveButtons() {
-    let eventCards = document.querySelectorAll("#upcoming-events article");
+        let eventCards = document.querySelectorAll("#upcoming-events article");
 
-    eventCards.forEach(function(card) {
+        eventCards.forEach(function(card) {
         let saveButton = document.createElement("button");
-    saveButton.textContent = "Save Event";
+        saveButton.textContent = "Save Event";
 
-    saveButton.addEventListener("click", function() {
+        saveButton.addEventListener("click", function() {
             if (card.classList.contains("saved-event")) {
                 card.classList.remove("saved-event");
                 saveButton.textContent = "Save Event";
