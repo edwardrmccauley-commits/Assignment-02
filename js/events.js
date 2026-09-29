@@ -6,8 +6,9 @@
   This file adds interactive event-saving features to the
   Campus Event Guide.
 */
-console.log("events.js loaded");
-
+/**
+ * Adds a Save Event button to each upcoming event card.
+ */
 function addSaveButtons() {
     let eventCards = document.querySelectorAll("#upcoming-events article");
 
@@ -29,7 +30,9 @@ function addSaveButtons() {
         card.appendChild(saveButton);
     });
 }
-
+/**
+ * Creates the Saved Events section at the bottom of the page.
+ */
 function createSavedEventsSection() {
     let main = document.querySelector("main");
 
@@ -48,6 +51,9 @@ function createSavedEventsSection() {
 
     main.appendChild(savedSection);
 }
+/**
+ * Updates the Saved Events section with the currently saved events.
+ */
 function updateSavedEvents() {
     let savedSection = document.querySelector("#saved-events");
     let oldList = document.querySelector("#saved-events-list");
